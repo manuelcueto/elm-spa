@@ -2,3 +2,5 @@
 .idea/**
 dist/**
 /elm-stuff/**
+/**/target/**
+
