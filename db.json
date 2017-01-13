@@ -1,0 +1,66 @@
+{
+  "players": [
+    {
+      "id": "2",
+      "name": "Lance",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "name": "Aki",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "name": "Maria",
+      "level": 4
+    },
+    {
+      "id": "5",
+      "name": "Julio",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "name": "Julian",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "name": "Jaime",
+      "level": 1
+    }
+  ],
+  "toDos": [
+    {
+      "id": "Dirk Gently",
+      "task": "Dirk Gently",
+      "completed": false
+    },
+    {
+      "id": "agregar los otros verbos al RestApi",
+      "task": "agregar los otros verbos al RestApi",
+      "completed": false
+    },
+    {
+      "id": "Hacer que reciban los bodies encoded o el a + encoder a",
+      "task": "Hacer que reciban los bodies encoded o el a + encoder a",
+      "completed": false
+    },
+    {
+      "id": "Filtrar por completados / no completados",
+      "task": "Filtrar por completados / no completados",
+      "completed": false
+    },
+    {
+      "id": "Sorting",
+      "task": "Sorting",
+      "completed": false
+    },
+    {
+      "id": "Backend Play",
+      "task": "Backend Play",
+      "completed": false
+    }
+  ]
+}
